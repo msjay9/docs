@@ -16,3 +16,4 @@ hidden: true
 * [Chartlog](https://www.chartlog.com/)
 * [Trademetria](https://trademetria.com/)
 * [Edgewonk](https://edgewonk.com/)
+* [Tradonite](https://tradonite.com/)
